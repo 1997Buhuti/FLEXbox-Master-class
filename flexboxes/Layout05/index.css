@@ -1,0 +1,13 @@
+.form {
+  display: flex;
+  width: 100%;
+  border: 1px solid rebeccapurple;
+}
+
+input[type="email"] {
+  flex-grow: 1;
+}
+
+input[type="submit"] {
+  flex-grow: 1;
+}
